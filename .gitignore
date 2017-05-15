@@ -25,3 +25,4 @@ vignettes/*.pdf
 *.knit.md
 src/packrat/lib*/
 src/packrat/src
+*.csv

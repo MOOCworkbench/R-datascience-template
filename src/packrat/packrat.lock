@@ -7,8 +7,3 @@ Package: packrat
 Source: CRAN
 Version: 0.4.8-1
 Hash: 6ad605ba7b4b476d84be6632393f5765
-
-Package: txtplot
-Source: CRAN
-Version: 1.0-3
-Hash: 309eba45b8ae2d90b2a295159e0c2d47
